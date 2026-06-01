@@ -1,7 +1,7 @@
 export const SOCIAL_LINKS = {
   LINKEDIN: 'https://linkedin.com/in/sebastiandotdev',
-  GITHUB: 'https://github.com/sebastiandotdev',
-  GMAIL: 'mailto:sebastiandotdev@gmail.com',
+  GITHUB: 'https://github.com/joansebastiangarcia',
+  GMAIL: 'mailto:joangarcia.dev@gmail.com',
 } as const
 
 export const CURRENT_WORK = {
