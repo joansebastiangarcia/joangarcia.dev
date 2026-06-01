@@ -1,11 +1,11 @@
-Hey! I'm **<a href="https://x.com/sebastiandotdev" target="_blank">@sebastiandotdev</a> (Joan Sebastian García)**. 👋
+Hey! I'm **<a href="https://linkedin.com/in/sebastiandotdev" target="_blank">@joansebastiangarcia</a> (Joan Sebastian García)**. 👋
 
 I'm a software developer and open source enthusiast from Colombia. 🇨🇴
 
-Wanna talk about something? Message me on Email [sebastiandotdev@gmail.com](mailto:sebastiandotdev@gmail.com). 🤓
+Wanna talk about something? Message me on Email [joangarcia.dev@gmail.com](mailto:joangarcia.dev@gmail.com). 🤓
 
 You can find me on:
 
-- [My website: sebastiandotdev.xyz](https://sebastiandotdev.xyz/)
-- [GitHub as @sebastiandotdev (you are here)](https://github.com/sebastiandotdev)
+- [My website: joangarcia.dev](https://joangarcia.dev/)
+- [GitHub as @joansebastiangarcia (you are here)](https://github.com/joansebastiangarcia)
 - [LinkedIn](https://linkedin.com/in/sebastiandotdev)
